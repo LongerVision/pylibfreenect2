@@ -1,5 +1,6 @@
 # coding: utf-8
 # cython: boundscheck=True, wraparound=True
+# distutils: define_macros=NPY_NO_DEPRECATED_API=NPY_1_7_API_VERSION
 
 """
 API
